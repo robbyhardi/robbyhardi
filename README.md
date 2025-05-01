@@ -1,14 +1,13 @@
 ### Hi there 👋 I'm Robby.
 
-An independent Software Engineer who start to be Machine Learning Engineer! I've enjoyed C# and make it the main language in creating a project.
+An independent Software Engineer transitioning into Machine Learning. I enjoy working with C# and have made it my primary language for building projects.
 
-I'm currently active in learning Machine Learning at <a href="https://github.com/dicodingacademy">@dicodingacademy</a>.
+Currently learning Machine Learning at <a href="https://github.com/dicodingacademy">@dicodingacademy</a>.
 
-- 🔭 I’m currently working on <a href="https://www.medcoenergi.com/">@medcoenergi</a>
-- 🌱 I’m currently learning about prompt engineering
-- 💬 Feel free to ask me about web development or C#
+- 🔭 I’m currently working at an oil and gas company
+- 💬 Feel free to discuss about web development and machine learning
 - 📫 How to reach me: robbyhardi[at]gmail.com
-- ⚡ Fun fact: Veteran Karateka
+- ⚡ Fun fact: A veteran karateka.
 
 ### Tech Stack
   <a href="https://en.wikipedia.org/wiki/Javascript"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>

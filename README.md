@@ -13,7 +13,6 @@ Currently learning Machine Learning at <a href="https://github.com/dicodingacade
   <a href="https://en.wikipedia.org/wiki/Javascript"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://dotnet.microsoft.com/en-us/"><img align="left" alt=".NET" title="NodeJS" width="21px" src="https://raw.githubusercontent.com/dotnet/brand/c7d0f51b8ec59531332d05fb27a5b758a7a3d689/logo/dotnet-logo.svg" /></a>
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" /></a>
-  <a href="https://jupyter.org/"><img align="left" alt="Jupyter" title="Jupyter Notebook" width="21px" src="https://github.com/jupyter/jupyter.github.io/blob/main/assets/share.png" /></a>
   <br>
   <br>
   
